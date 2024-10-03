@@ -21,7 +21,7 @@ Run the script:
 
     bash
 
-        python script_name.py
+        python autoscript.py
 
         The script will start monitoring the source directory and move files to their corresponding folders based on their extensions.
 
